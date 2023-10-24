@@ -6,4 +6,5 @@ Project to learn about emulators and rust.
 
 `cargo run riscv-program/build/test.bin`
 
-Note: The current instruction being executed is printed on stderr
+Notes: This was kinda a speed-run expect bugs. The current instruction being executed is printed on stderr
+
